@@ -763,7 +763,7 @@ body {
   height: 93px;
   background: url("../images/visual_banner.png") no-repeat center;
   background-size: cover;
-  z-index: 1111;
+  z-index: 11;
   padding-top: 32px;
 }
 
@@ -934,7 +934,7 @@ body {
   height: 252px;
   background: url("../images/main_game_str_bg.png") no-repeat center;
   background-size: cover;
-  z-index: 9999999999999;
+  z-index: 99;
 }
 
 .login-img p {
